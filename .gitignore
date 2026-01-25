@@ -16,3 +16,5 @@ uv.lock
 production-env
 .venv
 *.egg-info/
+# Ignore datasets
+05_src/data/
